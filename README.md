@@ -1,4 +1,5 @@
-<div style="width:100%;">
+
+<div style="width:100%; background-color: red;">
   <img src="https://github.com/deloabass/StyleGitHub/blob/main/DsY.gif" alt="logo" />
   
 </div>
