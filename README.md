@@ -1,10 +1,4 @@
 
-<div style="width:100%; background-color: red;">
-  <img src="https://github.com/deloabass/StyleGitHub/blob/main/DsY.gif" alt="logo" />
-  
-</div>
-
-
 <h1 align="center" style="font-family: Arial, sans-serif; color: #4CAF50;">Hi 👋, I'm Abassa Soumana</h1>
 <h3 align="center" style="font-family: Arial, sans-serif; color: #555;">💻 Full-Stack Web & Mobile Developer | Creator of modern and innovative digital experiences 🚀 | Passionate about code, UI/UX and high-performance solutions.</h3>
 
