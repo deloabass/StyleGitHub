@@ -1,5 +1,5 @@
 <p align="center" style="width:100%;">
-  <img src="https://github.com/deloabass/StyleGitHub/blob/main/DsY.gif" alt="logo" style="width:100%; max-width: 100%; border-radius: 15px;" />
+  <img src="https://github.com/deloabass/StyleGitHub/blob/main/DsY.gif" alt="logo" />
 </p>
 
 <h1 align="center" style="font-family: Arial, sans-serif; color: #4CAF50;">Hi 👋, I'm Abassa Soumana</h1>
